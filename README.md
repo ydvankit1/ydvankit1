@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankit Yadav</h1>
-<h3 align="center">Final Year B.Tech. CSE student and a passionate Software Developer from India</h3>
+<h3 align="center">Final year B.Tech. CSE student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ydvankit1&label=Profile%20views&color=0e75b6&style=flat" alt="ydvankit1" /> </p>
 
