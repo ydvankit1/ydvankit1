@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **ankit2004.madhuri@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/1XAot6QTS0bqWMmqUA54LRFaPqzToRDjM/view?usp=sharing](https://drive.google.com/file/d/1XAot6QTS0bqWMmqUA54LRFaPqzToRDjM/view?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ankit-yadav-5a6267227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankit-yadav-5a6267227/" height="30" width="40" /></a>
