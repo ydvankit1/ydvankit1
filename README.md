@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankit Yadav</h1>
-<h3 align="center">Final year B.Tech. CSE student</h3>
+<h3 align="center">CSE Graduate | B.Tech 2025</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ydvankit1&label=Profile%20views&color=0e75b6&style=flat" alt="ydvankit1" /> </p>
 
